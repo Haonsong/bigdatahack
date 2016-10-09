@@ -1,0 +1,156 @@
+CLAS-AB,Classics - AB
+CLAS-AB-GRKK,Classics - AB (Greek)
+CLAS-AB-LTIN,Classics - AB (Latin)
+CLAS-AB-GKLN,Classics - AB (Greek and Latin)
+CLAS-AB-SACL,Classics - AB (South Asian Classics)
+CLAS-AB-SANS,Classics - AB (Sanskrit)
+CLAS-AB-GRSA,Classics - AB (Greek and Sanskrit)
+CLAS-AB-LTSA,Classics - AB (Latin and Sanskrit)
+PSYC-AB,Psychology - AB
+PSYC-SCB,Psychology - SCB
+HIAA-AB,History of Art and Architecture - AB
+HIAA-AB-ARCH,History of Art and Architecture - AB (Architectural Studies)
+GEOB-SCB,Geology - Biology - SCB
+GEOB-AB,Geology - Biology - AB
+GEOC-SCB,Geology - Chemistry - SCB
+GEOC-AB,Geology - Chemistry - AB
+POLS-AB,Political Science - AB
+CTMP-AB,Contemplative Studies - AB
+CTMP-AB-HUMN,Contemplative Studies - AB (Humanities)
+CTMP-AB-SCI,Contemplative Studies - AB (Sciences)
+BEO-AB-BUSE,"Business, Entrepreneurship and Organizations - AB (Business Economics)"
+BEO-AB-ETCM,"Business, Entrepreneurship and Organizations - AB (Entrepreneurship & Tech Mgmt)"
+BEO-AB-ORGS,"Business, Entrepreneurship and Organizations - AB (Organizational Studies)"
+MUSC-AB,Music - AB
+MUSC-AB-CMMC,Music - AB (Computer Music and Multimedia)
+MUSC-AB-EMMC,Music - AB (Electronic Music & Multimedia)
+MUSC-AB-ETMS,Music - AB (Ethnomusicology)
+MUSC-AB-HTCP,Music - AB (History/Theory/Composition)
+TAPS-AB-PERF,Theatre Arts & Performance Studies - AB (Performance Studies)
+TAPS-AB-THTA,Theatre Arts & Performance Studies - AB (Theatre Arts)
+TAPS-AB-WPRF,Theatre Arts & Performance Studies - AB (Writing for Performance)
+NEUR-SCB,Neuroscience - SCB
+GNSS-AB,Gender & Sexuality Studies - AB
+ECON-AB,Economics - AB
+PLCY-AB,Public Policy - AB
+ARAN-AB,Archeology & Ancient World - AB
+ARAN-AB-CLSS,Archeology & Ancient World - AB (Classical)
+ARAN-AB-EGAS,Archeology & Ancient World - AB (Egyptology and Anct W. Asia St)
+HHBI-AB,Health and Human Biology - AB
+COGN-SCB,Cognitive Neuroscience - SCB
+COMP-AB,Computer Science - AB
+COMP-AB-PROF,Computer Science - AB (Professional Track)
+COMP-SCB,Computer Science - SCB
+COMP-SCB-PROF,Computer Science - SCB (Professional Track)
+AFRI-AB,Africana Studies - AB
+SAST-AB,South Asian Studies - AB
+HSLC-AB,Hispanic Literatures and Cultures - AB
+CSEC-SCB,Computer Science-Economics - SCB
+CSEC-SCB-PROF,Computer Science-Economics - SCB (Professional Track)
+CSEC-AB,Computer Science-Economics - AB
+CSEC-AB-PROF,Computer Science-Economics - AB (Professional Track)
+CSBI-SCB,Computational Biology - SCB
+CSBI-AB,Computational Biology - AB
+INDP-SCB-STAT,Independent Concentration - SCB (Statistics)
+EGYA-AB-ASYR,Egyptology & Assyriology - AB (Assyriology)
+EGYA-AB-EGYT,Egyptology & Assyriology - AB (Egyptology)
+GEOP-SCB,Geology - Physics/Mathematics - SCB
+GEOP-AB,Geology - Physics/Mathematics - AB
+CHPH-SCB,Chemical Physics - SCB
+ASTR-AB,Astronomy - AB
+COGS-AB,Cognitive Science - AB
+COGS-SCB,Cognitive Science - SCB
+MTEC-AB,Mathematics-Economics - AB
+AMST-AB,American Studies - AB
+SCSO-AB,Science and Society - AB
+PHIL-AB,Philosophy - AB
+PHIL-AB-ETPP,Philosophy - AB (Ethics & Political Philosophy)
+PHIL-AB-LOGC,Philosophy - AB (Logic & Philosophy of Science)
+FFS-AB,French & Francophone Studies - AB
+LACS-AB,Latin American & Caribbean Studies - AB
+MIDE-AB,Middle Eastern Studies - AB
+APME-SCB-ADEC,Applied Mathematics-Economics - SCB (Advanced Economics)
+APME-SCB-MAFI,Applied Mathematics-Economics - SCB (Mathematical Finance)
+APME-AB-ADEC,Applied Mathematics-Economics - AB (Advanced Economics)
+APME-AB-MAFI,Applied Mathematics-Economics - AB (Mathematical Finance)
+URBN-AB,Urban Studies - AB
+INTL-AB-PECS,International Relations - AB (Political Economy and Society)
+INTL-AB-SSOC,International Relations - AB (Security and Society)
+ENBI-SCB,Biomedical Engineering - SCB
+RELS-AB,Religious Studies - AB
+ITAL-AB,Italian Studies - AB
+SAR-SCB,Social Analysis and Research - SCB
+MBIO-SCB,Marine Biology - SCB
+COLT-AB-LITB,Comparative Literature - AB (Literature in Two Languages)
+COLT-AB-LITC,Comparative Literature - AB (Literature in Three Languages)
+COLT-AB-LTRN,Comparative Literature - AB (Literary Translation)
+MDVC-AB,Medieval Cultures - AB 
+MDVC-AB-ANTQ,Medieval Cultures - AB (Late Antique Cultures)
+APMB-SCB,Applied Mathematics-Biology - SCB
+BIOP-SCB,Biophysics - SCB
+ANTH-AB,Anthropology - AB
+SOC-AB,Sociology - AB
+MATH-AB,Mathematics - AB
+MATH-SCB,Mathematics - SCB
+GEOL-AB,Geological Sciences - AB
+GEOL-SCB,Geological Sciences - SCB
+SLAV-AB,Slavic Studies - AB
+HIST-AB,History - AB
+EAST-AB,East Asian Studies - AB
+APMA-AB,Applied Mathematics - AB
+APMA-SCB,Applied Mathematics - SCB
+MCMD-AB-TRK1,Modern Culture and Media - AB (Track I)
+MCMD-AB-TRK2,Modern Culture and Media - AB (Track II)
+EVST-AB,Environmental Studies - AB
+EVST-AB-ACE,"Environmental Studies - AB (Air, Climate & Energy)"
+EVST-AB-CSP,Environmental Studies - AB (Conservation Science & Policy)
+EVST-AB-LWFS,"Environmental Studies - AB (Land, Water & Food Security)"
+EVST-AB-SID,Environmental Studies - AB (Sustainability in Development)
+EVSC-SCB,Environmental Science - SCB
+APMC-SCB,Applied Mathematics-Computer Science - SCB
+APMC-SCB-PROF,Applied Math.-Computer Sci. - SCB (Professional Track)
+ARCT-AB,Architecture - AB
+ENPH-SCB,Engineering and Physics - SCB
+EDUC-AB,Education Studies - AB
+PHYS-AB,Physics - AB
+PHYS-AB-MAPH,Physics - AB (Mathematical)
+PHYS-SCB,Physics - SCB
+PHYS-SCB-ASPH,Physics - SCB (Astrophysics)
+PHYS-SCB-BIPH,Physics - SCB (Biological)
+PHYS-SCB-MAPH,Physics - SCB (Mathematical)
+BCHM-SCB,Biochemistry & Molecular Biology - SCB
+JUDS-AB,Judaic Studies - AB
+CHEM-AB,Chemistry - AB
+CHEM-SCB,Chemistry - SCB
+CHEM-SCB-CHBI,Chemistry - SCB (Chemical Biology)
+CHEM-SCB-MATL,Chemistry - SCB (Materials)
+REMS-AB,Renaissance and Early Modern Studies - AB
+VISA-AB,Visual Arts - AB
+LING-AB,Linguistics - AB
+ETHS-AB,Ethnic Studies - AB
+ENGN-AB,Engineering - AB
+ENGN-AB-ENVR,Engineering - AB (Environmental)
+ENGN-AB-TEAC,Engineering - AB (Teaching)
+ENGN-SCB,Engineering - SCB
+ENGN-SCB-CHCL,Engineering - SCB (Chemical and Biochemical)
+ENGN-SCB-CIVI,Engineering - SCB (Civil)
+ENGN-SCB-CMPT,Engineering - SCB (Computer)
+ENGN-SCB-ELCT,Engineering - SCB (Electrical)
+ENGN-SCB-ENVR,Engineering - SCB (Environmental)
+ENGN-SCB-MATL,Engineering - SCB (Materials)
+ENGN-SCB-MECH,Engineering - SCB (Mechanical)
+ENGL-AB,English - AB
+POBR-AB,Portuguese and Brazilian Studies - AB
+MACS-SCB,Mathematics-Computer Science - SCB
+DEVL-AB,Development Studies - AB
+PUBH-AB,Public Health - AB
+PHPH-AB,Physics and Philosophy - AB
+BIOL-AB,Biology - AB
+BIOL-SCB,Biology - SCB
+BIOL-SCB-CEMB,Biology - SCB (Cell and Molecular Biology)
+BIOL-SCB-EBIO,"Biology - SCB (Ecology, Evolutionary Biology)"
+BIOL-SCB-IMMU,Biology - SCB (Immunobiology)
+BIOL-SCB-MAR,Biology - SCB (Marine Biology)
+BIOL-SCB-NBIO,Biology - SCB (Neurobiology)
+BIOL-SCB-PHBI,Biology - SCB (Physiology/Biotechnology)
+BIOL-SCB-PHSC,Biology - SCB (Physical Sciences)
