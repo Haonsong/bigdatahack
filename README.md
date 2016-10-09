@@ -1,6 +1,6 @@
 # Midwest Big data Hackathon
 
-## Data virtualization 
+## Data visualization 
 
 ### Based on following source and data:
 - [D3 Library](https://github.com/d3/d3)
